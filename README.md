@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jala.shikhaliyeva@gmail.com**
 
-- 💻 You can also check my portfolio [jalashikhaliyeva.vercel.app](jalashikhaliyeva.vercel.app)
+- 💻 You can also check my portfolio https://jala-shikhaliyeva-portfolio.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
