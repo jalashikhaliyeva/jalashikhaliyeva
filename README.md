@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jala Shikhaliyeva</h1>
 <h3 align="center">A Frontend Developer</h3>
 
-- 📌 I'm currently working on [Lacheen-co](https://lacheen-co.vercel.app/)
+- 📌 I'm currently working on [Lacheen-co](https://lacheen-co.vercel.app/) and  [Elita-group](https://elita-group-markup.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jalashikhaliyeva](https://github.com/jalashikhaliyeva)
 
